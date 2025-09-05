@@ -1,7 +1,3 @@
-Here’s a draft README written for GitHub that avoids code snippets, focusing on explanation and a straightforward quickstart.
-
----
-
 # PDF OCR and Summarisation for GitHub Repositories
 
 This project automates the process of finding PDF files in a GitHub repository, extracting their text, and producing structured summaries in JSON format. It is designed to support archives and collections where PDFs may be a mixture of scanned and born-digital documents.
